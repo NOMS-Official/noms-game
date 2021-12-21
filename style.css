@@ -37,3 +37,8 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'kids magazine';
+	src: url('fonts/kids magazine.ttf') format('truetype');
+}
+

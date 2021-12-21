@@ -1,10 +1,10 @@
 {
-	"name": "Jogo NOMS",
-	"short_name": "Jogo NOMS",
-	"description": "",
+	"name": "NOMS",
+	"short_name": "NOMS",
+	"description": "NOMS, a platformer game with a lot of fun in it.",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"background_color": "#ffffff",
 	"icons": [
 		{
